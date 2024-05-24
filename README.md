@@ -1,4 +1,3 @@
 # test
 Hi this is a test repository
-
-![This is Test Image](https://github.com/jkashif/test/blob/main/images/Screenshot_2.png?raw=true)
+![Screenshot_2](https://github.com/jkashif/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6)
